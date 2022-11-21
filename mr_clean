@@ -1,0 +1,1 @@
+find ./ -type f -name "#*#.tmp" -delete  -o -name  "*-.tmp" -delete
